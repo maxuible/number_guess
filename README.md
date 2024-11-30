@@ -1,4 +1,4 @@
-Super simple guessing game
+Simple guessing game
 
 10 tries to guess 1-100
 
